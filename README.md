@@ -4,6 +4,7 @@ In this Repo I will add Basics program for Data Science
 
 ### Content:
   1. [**Vector Operation**](https://github.com/somnath119/DL_Basics/blob/master/VectorOperation.ipynb)
+  2. [**McCulloch-Pitts Neuron Model**](https://github.com/somnath119/DL_Basics/blob/master/MP_Neuron.ipynb)
 
 
 
