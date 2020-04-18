@@ -26,5 +26,5 @@ In this Repo I will add Basics program for Data Science
   
   
   
-  If any notebooks does not opens, then please go to [nbviewer.jupyter.org/](nbviewer.jupyter.org/) and paste the link of the notebook.
+  If any notebooks does not opens, then please go to [nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) and paste the link of the notebook.
   
