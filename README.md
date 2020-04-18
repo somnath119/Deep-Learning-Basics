@@ -6,6 +6,7 @@ In this Repo I will add Basics program for Data Science
   1. [**Vector Operation**](https://github.com/somnath119/DL_Basics/blob/master/VectorOperation.ipynb)
   2. [**McCulloch-Pitts Neuron Model**](https://github.com/somnath119/DL_Basics/blob/master/MP_Neuron.ipynb)
   3. [**Single Layer Perceptron**](https://github.com/somnath119/DL_Basics/blob/master/Perceptron.ipynb)
+  4. [**Sigmoid Neuron**](https://github.com/somnath119/DL_Basics/blob/master/Sigmoid_neuron.ipynb)
 
 
 
@@ -17,4 +18,6 @@ In this Repo I will add Basics program for Data Science
   5. Vector Algebra
   6. Linear Algebra
   7. Calculas
+ ## Datasets:
+  1. [**MobileCleaned.csv**]()
   
