@@ -19,5 +19,12 @@ In this Repo I will add Basics program for Data Science
   6. Linear Algebra
   7. Calculas
  ## Datasets:
-  1. [**MobileCleaned.csv**]()
+  1. [**MobileCleaned.csv**](https://github.com/somnath119/DL_Basics/blob/master/Datasets/mobile_cleaned.csv)
+  2. [**IRIS.csv**](https://github.com/somnath119/DL_Basics/blob/master/Datasets/IRIS.csv)
+  3. [**data.csv**](https://github.com/somnath119/DL_Basics/blob/master/Datasets/data.csv)
+  
+  
+  
+  
+  If any notebooks does not opens, then please go to [nbviewer.jupyter.org/](nbviewer.jupyter.org/) and paste the link of the notebook.
   
