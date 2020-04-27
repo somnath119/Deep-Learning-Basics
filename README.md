@@ -7,7 +7,7 @@ In this Repo I will add Basics program for Data Science
   2. [**McCulloch-Pitts Neuron Model**](https://github.com/somnath119/DL_Basics/blob/master/MP_Neuron.ipynb)
   3. [**Single Layer Perceptron**](https://github.com/somnath119/DL_Basics/blob/master/Perceptron.ipynb)
   4. [**Sigmoid Neuron**](https://github.com/somnath119/DL_Basics/blob/master/Sigmoid_neuron.ipynb)
-  5. [**FeedForward NeuralNetwork**](https://github.com/somnath119/DL_Basics/blob/master/FeedForwardNeuralNetwork.ipynb
+  5. [**Feed Forward Neural Network**](https://github.com/somnath119/DL_Basics/blob/master/FeedForwardNeuralNetwork.ipynb)
      for Multiclass classification
 
 
@@ -17,6 +17,7 @@ In this Repo I will add Basics program for Data Science
   2. Numpy
   3. Pandas
   4. Matplotlib
+  5. Scikit-Learn
   5. Vector Algebra
   6. Linear Algebra
   7. Calculas
