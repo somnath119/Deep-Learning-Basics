@@ -9,6 +9,8 @@ In this Repo I will add Basics program for Data Science
   4. [**Sigmoid Neuron**](https://github.com/somnath119/DL_Basics/blob/master/Sigmoid_neuron.ipynb)
   5. [**Feed Forward Neural Network**](https://github.com/somnath119/DL_Basics/blob/master/FeedForwardNeuralNetwork.ipynb)
      for Multiclass classification
+  6. [**BackPropagation In Neral Network**](https://github.com/somnath119/DL_Basics/blob/master/Backpropagation.ipynb)
+
 
 
 
