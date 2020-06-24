@@ -11,7 +11,8 @@ In this Repo I will add Basics program for Data Science
      for Multiclass classification
   6. [**BackPropagation In Neral Network**](https://github.com/somnath119/DL_Basics/blob/master/Backpropagation.ipynb)
   7. [**Implementing Vectorization over Neural Network for better performance**](https://github.com/somnath119/DL_Basics/blob/master/vectorised_feedforward.ipynb)
-
+  8. [**Learning Algorithm Optimization**](https://github.com/somnath119/DL_Basics/blob/master/Optimization.ipynb)
+  9. [**Differnt Optimization Algorithm Comparison**](https://github.com/somnath119/DL_Basics/blob/master/vectorised_feedforward.ipynb)
 
 
 
