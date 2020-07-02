@@ -1,20 +1,20 @@
 # DL_Basics
 Basics Deep Learning Program 
-In this Repo I will add Basics program for Data Science
+In this Repository I will add Basics program for Data Science which are built from scratch using basic Python Libary
 
 ### Content:
-  1. [**Vector Operation**](https://github.com/somnath119/DL_Basics/blob/master/VectorOperation.ipynb)
-  2. [**McCulloch-Pitts Neuron Model**](https://github.com/somnath119/DL_Basics/blob/master/MP_Neuron.ipynb)
-  3. [**Single Layer Perceptron**](https://github.com/somnath119/DL_Basics/blob/master/Perceptron.ipynb)
-  4. [**Sigmoid Neuron**](https://github.com/somnath119/DL_Basics/blob/master/Sigmoid_neuron.ipynb)
-  5. [**Feed Forward Neural Network**](https://github.com/somnath119/DL_Basics/blob/master/FeedForwardNeuralNetwork.ipynb)
+  1. [**Vector Operation**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/VectorOperation.ipynb)
+  2. [**McCulloch-Pitts Neuron Model**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/MP_Neuron.ipynb)
+  3. [**Single Layer Perceptron**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Perceptron.ipynb)
+  4. [**Sigmoid Neuron**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Sigmoid_neuron.ipynb)
+  5. [**Feed Forward Neural Network**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/FeedForwardNeuralNetwork.ipynb)
      for Multiclass classification
-  6. [**BackPropagation In Neral Network**](https://github.com/somnath119/DL_Basics/blob/master/Backpropagation.ipynb)
-  7. [**Implementing Vectorization over Neural Network for better performance**](https://github.com/somnath119/DL_Basics/blob/master/vectorised_feedforward.ipynb)
-  8. [**Learning Algorithm Optimization**](https://github.com/somnath119/DL_Basics/blob/master/Optimization.ipynb)
-  9. [**Differnt Optimization Algorithm Comparison**](https://github.com/somnath119/DL_Basics/blob/master/vectorised_feedforward.ipynb)
-  10. [**Different Activation function and Initialization Methods**](https://github.com/somnath119/DL_Basics/blob/master/Activation_&_initialization.ipynb)
-  11. [**Different Regularization technique to solve overfitting**](https://github.com/somnath119/DL_Basics/blob/master/Overfitting_and_Regularisation.ipynb)
+  6. [**BackPropagation In Neral Network**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Backpropagation.ipynb)
+  7. [**Implementing Vectorization over Neural Network for better performance**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/vectorised_feedforward.ipynb)
+  8. [**Learning Algorithm Optimization**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Optimization.ipynb)
+  9. [**Differnt Optimization Algorithm Comparison**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/vectorised_feedforward.ipynb)
+  10. [**Different Activation function and Initialization Methods**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Activation_&_initialization.ipynb)
+  11. [**Different Regularization technique to solve overfitting**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/Overfitting_and_Regularisation.ipynb)
 
 
 
