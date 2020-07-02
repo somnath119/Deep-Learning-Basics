@@ -14,6 +14,8 @@ In this Repo I will add Basics program for Data Science
   8. [**Learning Algorithm Optimization**](https://github.com/somnath119/DL_Basics/blob/master/Optimization.ipynb)
   9. [**Differnt Optimization Algorithm Comparison**](https://github.com/somnath119/DL_Basics/blob/master/vectorised_feedforward.ipynb)
   10. [**Different Activation function and Initialization Methods**](https://github.com/somnath119/DL_Basics/blob/master/Activation_&_initialization.ipynb)
+  11. [**Different Regularization technique to solve overfitting**](https://github.com/somnath119/DL_Basics/blob/master/Overfitting_and_Regularisation.ipynb)
+
 
 
 
