@@ -1,6 +1,6 @@
 # Deep Learning Basics
-Basics Deep Learning Program 
-In this Repository I will add Basics program for Data Science which are built from scratch using basic Python Libary
+Basics Deep Learning Program      
+In this Repository I will add Basics program for Deep Learning which are built from scratch using basic Python Libary
 
 ### Content:
   1. [**Vector Operation**](https://github.com/somnath119/Deep_Learning_Basics/blob/master/VectorOperation.ipynb)
