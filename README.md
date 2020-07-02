@@ -1,4 +1,4 @@
-# DL_Basics
+# Deep Learning Basics
 Basics Deep Learning Program 
 In this Repository I will add Basics program for Data Science which are built from scratch using basic Python Libary
 
